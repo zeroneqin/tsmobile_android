@@ -1,0 +1,3 @@
+[submodule "tstest_template"]
+	path = tstest_template
+	url = https://github.com/zeroneqin/tstest_template.git
