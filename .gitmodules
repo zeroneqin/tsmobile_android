@@ -1,9 +1,0 @@
-[submodule "tstest_template"]
-	path = tstest_template
-	url = https://github.com/zeroneqin/tstest_template.git
-[submodule "tstest_3layer"]
-	path = tstest_3layer
-	url = https://github.com/zeroneqin/tstest_3layer.git
-[submodule "tstest_datadriving"]
-	path = tstest_datadriving
-	url = https://github.com/zeroneqin/tstest_datadriving.git
